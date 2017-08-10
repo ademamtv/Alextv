@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>LA TV PUBLICA </title>        
+<title>LA TV PUBLICA</title>        
 <urlsolve>https://www.youtube.com/watch?v=LxzMFcs6ODg</urlsolve>
-<thumbnail>http://futbolparatodos.net/wp-content/uploads/2014/03/tvpublica.jpg</thumbnail>
-<fanart>http://i1.trekearth.com/photos/122733/p1010547.jpg</fanart>
+<thumbnail>https://img.utdstc.com/icons/256/tv-publica-android.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>CANAL 7 DE MENDOZA </title>        
 <urlsolve>https://www.youtube.com/watch?v=9yq1qLBcGBA</urlsolve>
-<thumbnail>http://ecocuyo.com/2016/wp-content/uploads/2016/02/canal-7-cerca-tuyo-logo-vertical_5071.jpg.png</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5A9TQf8UQyDfDVsPO3_Xrdsd5Zs9dNxgQtxyVvS0unWvCwuh</fanart>
+<thumbnail>http://www.tvargentina.com.ar/iconos/canal7mendoza.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>FOX DE ESPAÑA </title>        
-<urlsolve>http://www.vercanalestv.com/ver-canal-fox-en-directo-y-online-las-24h-por-internet/</urlsolve>
-<thumbnail>http://ecocuyo.com/2016/wp-content/uploads/2016/02/canal-7-cerca-tuyo-logo-vertical_5071.jpg.png</thumbnail>
+<title>DEPORTV </title>        
+<urlsolve>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w814539679_b800000_slesp.m3u8</urlsolve>
+<thumbnail>http://i.imgur.com/PxyIZNW.png</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5A9TQf8UQyDfDVsPO3_Xrdsd5Zs9dNxgQtxyVvS0unWvCwuh</fanart>
 </item>
 
