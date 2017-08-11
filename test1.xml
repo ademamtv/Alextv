@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>LA TV PUBLICA</title>        
-<urlsolve>https://www.youtube.com/watch?v=LxzMFcs6ODg</urlsolve>
-<thumbnail>https://img.utdstc.com/icons/256/tv-publica-android.png</thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>CANAL 7 DE MENDOZA </title>        
-<urlsolve>https://www.youtube.com/watch?v=9yq1qLBcGBA</urlsolve>
-<thumbnail>http://www.tvargentina.com.ar/iconos/canal7mendoza.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DEPORTV </title>        
-<urlsolve>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w814539679_b800000_slesp.m3u8</urlsolve>
-<thumbnail>http://i.imgur.com/PxyIZNW.png</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5A9TQf8UQyDfDVsPO3_Xrdsd5Zs9dNxgQtxyVvS0unWvCwuh</fanart>
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA
 http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA2
@@ -87,10 +70,10 @@ http://186.155.200.118:1935/live/telemusica/chunklist_w1249971051.m3u8
 https://vaughnlive.tv/katyhd
 #EXTINF:-1 futbol chile
 https://live9.userapi.com/7764//live/GRlYKIJTbJ7YBhUG/chunks.m3u8
-#EXTINF:-1 futbol chi 
-</item>
-
-
+#EXTINF:-1,TV PUBLICA 
+<urlsolve>https://www.youtube.com/watch?v=LxzMFcs6ODg</urlsolve>
+#EXTINF:-1,CANAL 7 
+<urlsolve>https://www.youtube.com/watch?v=9yq1qLBcGBA</urlsolve>
 
 
 
