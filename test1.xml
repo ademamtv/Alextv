@@ -21,7 +21,7 @@
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5A9TQf8UQyDfDVsPO3_Xrdsd5Zs9dNxgQtxyVvS0unWvCwuh</fanart>
 </item>
 
-<item>
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA
 http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8
