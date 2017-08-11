@@ -6,70 +6,73 @@
 http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",[COLOR blue]LA TELETUYA2[/COLOR]
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.diariocastellanos.net/data/noticias/58505-0000.png" group-title="LABEL",DEPORTV
+#EXTINF:-1 tvg-logo="http://www.diariocastellanos.net/data/noticias/58505-0000.png" group-title="LABEL",[COLOR blue]DEPORTV[/COLOR]
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w814539679_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-m1LD7LlIoT8/VO_8EeyIQXI/AAAAAAAABgY/mjy3X_z4ezA/s1600/Canal%2B26%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="LABEL",CANAL 26
-http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-tmhSjMT6cYg/VmtgpK5j3wI/AAAAAAAAAV8/iqcRk98LW3o/s1600/onetv.png" group-title="LABEL",ONE TV 
-http://server5.stweb.tv/radioone/ngrp:live_all/chunklist_w1859743535_b2270208.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="LABEL",TVES 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-m1LD7LlIoT8/VO_8EeyIQXI/AAAAAAAABgY/mjy3X_z4ezA/s1600/Canal%2B26%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="LABEL",[COLOR blue]CANAL 26[COLOR blue]
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="LABEL",[COLOR blue]TVES[/COLOR] 
 http://cast.streamingconnect.tv:1935/tves2/tves2/chunklist_w132639656.m3u8
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/es.starwars/images/7/7c/A3_logo.png"group-title="LABEL",ANTENA 3
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/es.starwars/images/7/7c/A3_logo.png"group-title="LABEL",[COLOR blue]ANTENA 3[/COLOR]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/2000px-La_Sexta.svg.png" group-title="LABEL",LA SEXTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/2000px-La_Sexta.svg.png" group-title="LABEL",[COLOR blue]LA SEXTA[/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logotipo_de_canal_13_durante_los_a%C3%B1os_2007_y_2008.png" group-title="LABEL",CANAL 13
-rtmp://70.36.100.38/live/_definst_//canal13_lq.stream
-#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/2a909d_77cda651b8ca1c46b43152d4cc6f0b4e.png" group-title="LABEL",HCH
-rtmp://4.31.30.140/live//hchtvdigital
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="LABEL",UNIVISION TDN
-http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_648_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://static.azteca.com//TvAztecaLogo.png" group-title="LABEL",AZTECA 13 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/220px-Teletrece_Logo_%282012%29.svg.png" group-title="LABEL",CANAL 13 
-http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13lq
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-EdPLfJnxLuc/VKCtdO-aY6I/AAAAAAAACTE/KMQ3c4xHkAY/s320/logo%2BSE%C3%91AL%2BCOLOMBIA.png" group-title="LABEL",SEÑAL COLOMBIA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/220px-Teletrece_Logo_%282012%29.svg.png" group-title="LABEL",[COLOR blue]CANAL 13[/COLOR]  
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Cmvq4NWLwB0/UljgtERpZUI/AAAAAAAADKI/if1N0u-awqE/s320/ver+multimedios+en+vivo.png" group-title="LABEL",MULTIMEDIOS 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Cmvq4NWLwB0/UljgtERpZUI/AAAAAAAADKI/if1N0u-awqE/s320/ver+multimedios+en+vivo.png" group-title="LABEL",[COLOR blue]MULTIMEDIOS[/COLOR]  
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MKebEtsAbCvZ1KvI4_1WHfbAISqeeMJ6l-PSz8JY_2voqxui" group-title="LABEL",AMERICA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MKebEtsAbCvZ1KvI4_1WHfbAISqeeMJ6l-PSz8JY_2voqxui" group-title="LABEL",[COLOR blue]AMERICA[/COLOR] 
 http://cdn-zc-lsd-3.planisys.net:1935/TV9/smil:tv9live.smil/chunklist_w1964687375_b1128000.m3u8
-#EXTINF:-1 tvg-logo="http://www.mitelevision.net/wp-content/uploads/2017/02/america-argentina.png" group-title="LABEL",AMERICA TV
-http://vaughnlive.tv/el_yamato
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ycojMYz6X20/UZFjGA-WlbI/AAAAAAAAGcQ/mzvEkxPfhuI/s1600/C10MDPtv.png" group-title="LABEL",CANAL 10
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ycojMYz6X20/UZFjGA-WlbI/AAAAAAAAGcQ/mzvEkxPfhuI/s1600/C10MDPtv.png" group-title="LABEL",[COLOR blue]CANAL 10[/COLOR]
 http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/chunklist_w544711982_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="LABEL",CANAL 4
-http://live-01.viewer.dacast.com/i/dclive_1@311302/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png" group-title="LABEL",FOX
-http://edge6.telesport.pw/live/foxlatino/index.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-V2OvSnx_gHc/VeKHk7nxBnI/AAAAAAAADlg/vbX3-HNaVHg/s1600/canalplus%2BHD%2BDeportes.png" group-title="LABEL",MOVISTAR DEPORTES
-http://edge11.verliga.me/live/plusdeportes/index.m3u8
-#EXTINF:-1 tvg-logo="http://compromisosocial.rcn.com.co/wp-content/themes/magazeen/images/logoRCNcs.png" group-title="LABEL",RCN
-http://cdn2.shurs.xyz/verliga/8/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png" group-title="LABEL",EL TRECE
-https://vaughnlive.tv/juan_13tv
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B-YU4r1jS-o/VyGAQpL47NI/AAAAAAAAClo/-F1f1qiUOW015EQtlxQrKjS7zhEUNz9vQCCo/s800/telefe-en-vivo.png" group-title="LABEL",TELEFE
-https://vaughnlive.tv/beto_4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LABEL",TELEMUNDO 
-https://vaughnlive.tv/anahix11
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-tt3j4vpuBZ8/Vl-heU6anJI/AAAAAAAAAgc/eeGesHgWV8Y/s1600/Fox-Sports-2.png" group-title="LABEL",FOX SPORS 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/522.flv?&tp.php;?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA;&ENLASESADDONMEXICOFREE;&ip.detect.codig.93ye5w8d53f;=.m3u8
-#EXTINF:-1 tvg-logo="http://abdavega.playlatinohd.com/logos/mexico/canal5.png" group-title="LABEL",CANAL 5
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/105.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/galavision_tv_logo_detail.jpg" group-title="LABEL",GALA TV 
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/109.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
-#EXTINF:-1 tvg-logo="http://abdavega.playlatinohd.com/logos/mexico/unicable.png" group-title="LABEL",UNICABLE
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-tt3j4vpuBZ8/Vl-heU6anJI/AAAAAAAAAgc/eeGesHgWV8Y/s1600/Fox-Sports-2.png" group-title="LABEL",[COLOR blue]FOX SPORS 3[/COLOR]
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/522.flv?&tp.php;?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA;&ENLASESADDONMEXICOFREE;&ip.detect.codig.93ye5w8d53f;=.m3u8 
+#EXTINF:-1 tvg-logo="http://abdavega.playlatinohd.com/logos/mexico/unicable.png" group-title="LABEL",[COLOR blue]UNICABLE[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/218.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/milgreen/images/1/1a/Syfy_%28Milgreen%29.png" group-title="LABEL",SYFY
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/milgreen/images/1/1a/Syfy_%28Milgreen%29.png" group-title="LABEL",[COLOR ble]SYFY[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/257.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zm_cDQDkEKQ/USFsfwhyesI/AAAAAAAADPY/7QrvU4SYODo/s1600/virgin_radio_tv.png" group-title="LABEL",virgin tv 
-http://wow01.105.net/live/virgin1/chunklist_w596069717.m3u8  
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Gq_KuCM9QVw/WM7ZSjUFySI/AAAAAAAAG0g/irAr3f87i4QiU-moCzLErXdAQuw9VIg7gCLcB/s1600/Telemusica.png" group-title="LABEL",TELEMUSICA
-http://186.155.200.118:1935/live/telemusica/chunklist_w1249971051.m3u8
-#EXTINF:-1 tvg-logo="http://mundotvlatino.net/images/share/333.jpg"  group-title="LABEL",KATY HD
-https://vaughnlive.tv/katyhd
-#EXTINF:-1 futbol chile
-https://live9.userapi.com/7764//live/GRlYKIJTbJ7YBhUG/chunks.m3u8
+#EXTINF:-1,[color blue]]CAPITAL PERU TV [/COLOR]
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8 
+#EXTINF:-1,[color blue]AXN HD [/COLOR]
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,[color blue]ONE TV MUSICA [/COLOR]
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,[color blue]EXA TV [/COLOR]
+http://192.163.250.253:1935/live/canal4/playlist.m3u8	
+#EXTINF:-1,[color blue] LAS ESTRELLAS  [/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8	
+#EXTINF:-1,[color blue] NIU DE CHILE  [/COLOR]
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,[color blue] FOX ACCION  [/COLOR]
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/416.flv
+#EXTINF:-1,[color blue] FOX SPORT 2  [/COLOR]
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/527.flv
+#EXTINF:-1,[color blue] VHI HD  [/COLOR]
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/703.flv
+#EXTINF:-1,[color blue] CINECANAL  [/COLOR]
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
+#EXTINF:-1,[color blue] FOX MOVIES  [/COLOR]
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
+#EXTINF:-1,[COLOR blue]Nex Tv[/COLOR]
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,[COLOR blue]Rpc tv[/COLOR]
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8 
+#EXTINF:-1,[COLOR blue]RCN COLOMBIA [/COLOR]
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
+#EXTINF:-1,[COLOR blue]CARACOL COLOMBIA [/COLOR]
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
