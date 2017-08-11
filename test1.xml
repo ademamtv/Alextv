@@ -34,7 +34,7 @@ http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/218.flv
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/257.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
 #EXTINF:-1,[color blue]]CAPITAL PERU TV [/COLOR]
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8 
-#EXTINF:-1,[color blue]AXN HD [/COLOR]
+#EXTINF:-1,group-title="LABEL"[color blue]AXN HD [/COLOR]
 http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1,[color blue]ONE TV MUSICA [/COLOR]
 http://server5.stweb.tv/radioone/live/playlist.m3u8
