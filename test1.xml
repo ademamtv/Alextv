@@ -70,11 +70,20 @@ http://186.155.200.118:1935/live/telemusica/chunklist_w1249971051.m3u8
 https://vaughnlive.tv/katyhd
 #EXTINF:-1 futbol chile
 https://live9.userapi.com/7764//live/GRlYKIJTbJ7YBhUG/chunks.m3u8
-#EXTINF:-1,TV PUBLICA 
-<urlsolve>https://www.youtube.com/watch?v=LxzMFcs6ODg</urlsolve>
-#EXTINF:-1,CANAL 7 
-<urlsolve>https://www.youtube.com/watch?v=9yq1qLBcGBA</urlsolve>
 
+<item>
+<title>LA TV PUBLICA </title>        
+<urlsolve>https://www.youtube.com/watch?v=LxzMFcs6ODg</urlsolve>w/film261787_LAT_TS..avi.mp4?mime=true</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CANAL 7 DE ARGENTINA</title>        
+<urlsolve>https://www.youtube.com/watch?v=9yq1qLBcGBA</urlsolve>v=LxzMFcs6ODg</urlsolve>w/film261787_LAT_TS..avi.mp4?mime=true</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
