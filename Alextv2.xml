@@ -1,23 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>
- </title>        
+<title>Disturbed- Prayer</title>
 <urlsolve>https://www.youtube.com/watch?v=DWSlOCEzRGo</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-#EXTM3U
-#EXTINF:-1,Staind - It's Been Awhile (Video)[COLOR BLUE]
-https://www.youtube.com/watch?v=araU0fZj6oQ
-#EXTINF:-1,Staind - Outside (Video)[COLOR BLUE]
-https://www.youtube.com/watch?v=mVQpfoqsY8Q
-#EXTINF:-1,Staind - So Far Away (Album Version)[COLOR BLUE]
-https://www.youtube.com/watch?v=QCZXjB9DPl4
-#EXTINF:-1,Nickelback - How You Remind Me[COLOR BLUE]
-https://www.youtube.com/watch?v=1cQh1ccqu8M
-#EXTINF:-1,The Calling - Wherever You Will Go[COLOR BLUE]
-https://www.youtube.com/watch?v=iAP9AF6DCu4
+<item>
+<title>Staind - It's Been Awhile</title> 
+<urlsolve>https://www.youtube.com/watch?v=araU0fZj6oQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Staind - Outside</title>
+<urlsolve>https://www.youtube.com/watch?v=mVQpfoqsY8Q</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+item>
+<title>Staind - So Far Away </title>
+<urlsolve>https://www.youtube.com/watch?v=QCZXjB9DPl4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+tem>
+<title>Nickelback - How You Remind Me</title>
+<urlsolve>https://www.youtube.com/watch?v=1cQh1ccqu8M</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+em>
+<title>The Calling - Wherever You Will Go</title>
+<urlsolve>https://www.youtube.com/watch?v=iAP9AF6DCu4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

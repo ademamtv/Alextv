@@ -19,10 +19,6 @@
 <urlsolve>http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w814539679_b800000_slesp.m3u8</urlsolve>
 <thumbnail>http://i.imgur.com/PxyIZNW.png</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5A9TQf8UQyDfDVsPO3_Xrdsd5Zs9dNxgQtxyVvS0unWvCwuh</fanart>
-</item>
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA
 http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA2
@@ -92,6 +88,7 @@ https://vaughnlive.tv/katyhd
 #EXTINF:-1 futbol chile
 https://live9.userapi.com/7764//live/GRlYKIJTbJ7YBhUG/chunks.m3u8
 #EXTINF:-1 futbol chi 
+</item>
 
 
 
