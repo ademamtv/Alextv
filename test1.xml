@@ -8,7 +8,7 @@ http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.diariocastellanos.net/data/noticias/58505-0000.png" group-title="LABEL",[COLOR blue]DEPORTV[/COLOR]
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w814539679_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-m1LD7LlIoT8/VO_8EeyIQXI/AAAAAAAABgY/mjy3X_z4ezA/s1600/Canal%2B26%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="LABEL",[COLOR blue]CANAL 26[COLOR blue]
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-m1LD7LlIoT8/VO_8EeyIQXI/AAAAAAAABgY/mjy3X_z4ezA/s1600/Canal%2B26%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="LABEL",[COLOR blue]CANAL 26[/COLOR]
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="LABEL",[COLOR blue]TVES[/COLOR] 
 http://cast.streamingconnect.tv:1935/tves2/tves2/chunklist_w132639656.m3u8
@@ -16,7 +16,7 @@ http://cast.streamingconnect.tv:1935/tves2/tves2/chunklist_w132639656.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/2000px-La_Sexta.svg.png" group-title="LABEL",[COLOR blue]LA SEXTA[/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://static.azteca.com//TvAztecaLogo.png" group-title="LABEL",AZTECA 13 
+#EXTINF:-1 tvg-logo="http://static.azteca.com//TvAztecaLogo.png" group-title="LABEL",[COLOR blur]AZTECA 13[/COLOR] 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/220px-Teletrece_Logo_%282012%29.svg.png" group-title="LABEL",[COLOR blue]CANAL 13[/COLOR]  
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/chunklist_b1500000.m3u8
@@ -32,27 +32,27 @@ http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/522.flv
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/218.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/milgreen/images/1/1a/Syfy_%28Milgreen%29.png" group-title="LABEL",[COLOR ble]SYFY[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/257.flv?&tp.php?id=PROPIEDADEDUARDOCIENEROS&NOROBESPUTAMIERDA&ENLASESADDONMEXICOFREE&ip.detect.codig.93ye5w8d53f=.m3u8
-#EXTINF:-1,[color blue]]CAPITAL PERU TV [/COLOR]
+#EXTINF:-1,[color blue]]CAPITAL PERU TV[/COLOR]
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8 
-#EXTINF:-1,group-title="LABEL"[color blue]AXN HD [/COLOR]
+#EXTINF:-1,[color blue]AXN HD[/COLOR]
 http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,[color blue]ONE TV MUSICA [/COLOR]
+#EXTINF:-1,[color blue]ONE TV MUSICA[/COLOR]
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:-1,[color blue]EXA TV [/COLOR]
 http://192.163.250.253:1935/live/canal4/playlist.m3u8	
-#EXTINF:-1,[color blue] LAS ESTRELLAS  [/COLOR]
+#EXTINF:-1,[color blue]LAS ESTRELLAS[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8	
-#EXTINF:-1,[color blue] NIU DE CHILE  [/COLOR]
+#EXTINF:-1,[color blue]NIU DE CHILE[/COLOR]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1,[color blue] FOX ACCION  [/COLOR]
+#EXTINF:-1,[color blue]FOX ACCION[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/416.flv
-#EXTINF:-1,[color blue] FOX SPORT 2  [/COLOR]
+#EXTINF:-1,[color blue]FOX SPORT 2[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/527.flv
-#EXTINF:-1,[color blue] VHI HD  [/COLOR]
+#EXTINF:-1,[color blue]VHI HD[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/703.flv
-#EXTINF:-1,[color blue] CINECANAL  [/COLOR]
+#EXTINF:-1,[color blue]CINECANAL[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
-#EXTINF:-1,[color blue] FOX MOVIES  [/COLOR]
+#EXTINF:-1,[color blue]FOX MOVIEs[/COLOR]
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
 #EXTINF:-1,[COLOR blue]Nex Tv[/COLOR]
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
