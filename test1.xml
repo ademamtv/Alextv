@@ -2,9 +2,9 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA
+#EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL","[COLOR BLUE]LA TELETUYA[/COLOR]
 http://stream.vod.co.ve/telet/telet/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",LA TELETUYA2
+#EXTINF:-1 tvg-logo="http://www.telet.com.ve/Logo%20TELET.png" group-title="LABEL",[COLOR BLUE]LA TELETUYA2[/COLOR]
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.diariocastellanos.net/data/noticias/58505-0000.png" group-title="LABEL",DEPORTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w814539679_b800000_slesp.m3u8
